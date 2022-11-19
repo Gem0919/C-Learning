@@ -1,0 +1,15 @@
+C:\Users\88697\Desktop\Visual Studio code\bin\Debug\net6.0\Visual Studio code.exe
+C:\Users\88697\Desktop\Visual Studio code\bin\Debug\net6.0\Visual Studio code.deps.json
+C:\Users\88697\Desktop\Visual Studio code\bin\Debug\net6.0\Visual Studio code.runtimeconfig.json
+C:\Users\88697\Desktop\Visual Studio code\bin\Debug\net6.0\Visual Studio code.dll
+C:\Users\88697\Desktop\Visual Studio code\bin\Debug\net6.0\Visual Studio code.pdb
+C:\Users\88697\Desktop\Visual Studio code\obj\Debug\net6.0\Visual Studio code.csproj.AssemblyReference.cache
+C:\Users\88697\Desktop\Visual Studio code\obj\Debug\net6.0\Visual Studio code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\88697\Desktop\Visual Studio code\obj\Debug\net6.0\Visual Studio code.AssemblyInfoInputs.cache
+C:\Users\88697\Desktop\Visual Studio code\obj\Debug\net6.0\Visual Studio code.AssemblyInfo.cs
+C:\Users\88697\Desktop\Visual Studio code\obj\Debug\net6.0\Visual Studio code.csproj.CoreCompileInputs.cache
+C:\Users\88697\Desktop\Visual Studio code\obj\Debug\net6.0\Visual Studio code.dll
+C:\Users\88697\Desktop\Visual Studio code\obj\Debug\net6.0\refint\Visual Studio code.dll
+C:\Users\88697\Desktop\Visual Studio code\obj\Debug\net6.0\Visual Studio code.pdb
+C:\Users\88697\Desktop\Visual Studio code\obj\Debug\net6.0\Visual Studio code.genruntimeconfig.cache
+C:\Users\88697\Desktop\Visual Studio code\obj\Debug\net6.0\ref\Visual Studio code.dll
